@@ -1,0 +1,13 @@
+﻿period_id,year,month,month_name,quarter
+123,2023,1,January,1
+124,2023,2,February,1
+125,2023,3,March,1
+126,2023,4,April,2
+127,2023,5,May,2
+128,2023,6,June,2
+129,2023,7,July,3
+130,2023,8,August,3
+131,2023,9,September,3
+132,2023,10,October,4
+133,2023,11,November,4
+134,2023,12,December,4
