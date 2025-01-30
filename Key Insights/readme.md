@@ -4,15 +4,15 @@
 
 
 Insights from dashboard
-•	Average Delay: Flights experience an average delay of 19 minutes, slightly less than the previous year's monthly average of 20 minutes.
+ - Average Delay: Flights experience an average delay of 19 minutes, slightly less than the previous year's monthly average of 20 minutes.
 
-•	Flight Cancellations: Approximately 2% of flights have been canceled, representing a relatively small percentage of the total flights.
+- Flight Cancellations: Approximately 2% of flights have been canceled, representing a relatively small percentage of the total flights.
 
-•	Flight Matches: A substantial number of flights, totaling 1,807,333, have been successfully scheduled and completed.
+- Flight Matches: A substantial number of flights, totaling 1,807,333, have been successfully scheduled and completed.
 
-•	Scheduled vs Chartered Flights: The majority of flights, accounting for 83.84%, are scheduled charters, while only 16.16% are chartered flights.
+- Scheduled vs Chartered Flights: The majority of flights, accounting for 83.84%, are scheduled charters, while only 16.16% are chartered flights.
 
-•	Comparative Analysis: A bar graph highlights a notable disparity between the number of flights matched and the number of flights canceled, underscoring a high rate of successful flight operations compared to cancellations.
+-	Comparative Analysis: A bar graph highlights a notable disparity between the number of flights matched and the number of flights canceled, underscoring a high rate of successful flight operations compared to cancellations.
 
 
 These insights suggest that the flight operations are quite efficient, with a high success rate of scheduled flights and a low cancellation rate. The slight decrease in average delay compared to the previous year also indicates an improvement in punctuality.
